@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: PeachPuff;
+}
+
+h4{
+  color: PeachPuff;
+}
+
+#dealer-text {
+  color: Tomato;
+}
+
+#player-text {
+  color: ForestGreen;
+}
+
+#text-area {
+  color: PeachPuff;
+}
